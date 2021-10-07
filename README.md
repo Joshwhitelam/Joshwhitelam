@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Joshwhitelam
+- 👀 I’m interested in games development and software development.
+- 🌱 I’m currently learning computer science for games development in university.
+- 💞️ I’m looking to collaborate on games i want to make in the future - like silly little indie games i can experiment with.
+- 📫 I have a twitter at @Animini_ that holds open DMs for any contacts c:
